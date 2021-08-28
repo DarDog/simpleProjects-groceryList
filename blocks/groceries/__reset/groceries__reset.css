@@ -1,0 +1,10 @@
+.groceries__reset {
+  cursor: pointer;
+  font-size: 2rem;
+  background: url("../../../images/bin.svg") no-repeat center;
+  background-size: cover;
+  height: 40px;
+  width: 40px;
+  border: none;
+  padding: 0;
+}
