@@ -5,6 +5,7 @@
 @import url(../blocks/groceries/groceries.css);
 @import url(../blocks/groceries/__title/groceries__title.css);
 @import url(../blocks/groceries/__form/groceries__form.css);
-@import url(../blocks/groceries/__reset/groceries__reset.css);
+@import url(../blocks/items-reset/items-reset.css);
 @import url(../blocks/groceries/__input/groceries__input.css);
 @import url(../blocks/items/items.css);
+@import url(../blocks/item/_completed.css);
